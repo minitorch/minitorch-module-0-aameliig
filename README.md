@@ -6,3 +6,46 @@
 * Docs: https://minitorch.github.io/
 
 * Overview: https://minitorch.github.io/module0/module0/
+
+
+
+## Task 0.5: Visualization
+
+```
+Start a streamlit server and print an image of the dataset. Hand-create classifiers that split the linear dataset into the correct colors.
+
+Add the image in the README file in your repo along with the parameters that your used.
+```
+
+I experimented with the Sandbox Module for a while, trying to split the datasets from task 0.5 as good as possible by using the linear classifier. However, some of the cases cannot be split linearly, so their pictures are just for fun.
+
+* Simple dataset:
+<img src="https://minitorch.github.io/minitorch.svg" width="50%">
+<img src="https://minitorch.github.io/minitorch.svg" width="50%">
+<img src="https://minitorch.github.io/minitorch.svg" width="50%">
+
+* Diagonal dataset:
+<img src="https://minitorch.github.io/minitorch.svg" width="50%">
+<img src="https://minitorch.github.io/minitorch.svg" width="50%">
+<img src="https://minitorch.github.io/minitorch.svg" width="50%">
+
+* Split dataset:
+<img src="https://minitorch.github.io/minitorch.svg" width="50%">
+<img src="https://minitorch.github.io/minitorch.svg" width="50%">
+<img src="https://minitorch.github.io/minitorch.svg" width="50%">
+
+
+* Xor dataset:
+<img src="https://minitorch.github.io/minitorch.svg" width="50%">
+<img src="https://minitorch.github.io/minitorch.svg" width="50%">
+<img src="https://minitorch.github.io/minitorch.svg" width="50%">
+
+* Circle dataset:
+<img src="https://minitorch.github.io/minitorch.svg" width="50%">
+<img src="https://minitorch.github.io/minitorch.svg" width="50%">
+<img src="https://minitorch.github.io/minitorch.svg" width="50%">
+
+* Spiral dataset:
+<img src="https://minitorch.github.io/minitorch.svg" width="50%">
+<img src="https://minitorch.github.io/minitorch.svg" width="50%">
+<img src="https://minitorch.github.io/minitorch.svg" width="50%">
