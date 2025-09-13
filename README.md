@@ -20,32 +20,32 @@ Add the image in the README file in your repo along with the parameters that you
 I experimented with the Sandbox Module for a while, trying to split the datasets from task 0.5 as good as possible by using the linear classifier. However, some of the cases cannot be split linearly, so their pictures are just for fun.
 
 * Simple dataset:
-<img src="https://minitorch.github.io/minitorch.svg" width="50%">
-<img src="https://minitorch.github.io/minitorch.svg" width="50%">
-<img src="https://minitorch.github.io/minitorch.svg" width="50%">
+<img src="https://github.com/minitorch/minitorch-module-0-aameliig/blob/master/task05/s1.png" width="50%">
+<img src="https://github.com/minitorch/minitorch-module-0-aameliig/blob/master/task05/s2.png" width="50%">
+<img src="https://github.com/minitorch/minitorch-module-0-aameliig/blob/master/task05/s3.png" width="50%">
 
 * Diagonal dataset:
-<img src="https://minitorch.github.io/minitorch.svg" width="50%">
-<img src="https://minitorch.github.io/minitorch.svg" width="50%">
-<img src="https://minitorch.github.io/minitorch.svg" width="50%">
+<img src="https://github.com/minitorch/minitorch-module-0-aameliig/blob/master/task05/s4.png" width="50%">
+<img src="https://github.com/minitorch/minitorch-module-0-aameliig/blob/master/task05/s5diag.png" width="50%">
+
 
 * Split dataset:
-<img src="https://minitorch.github.io/minitorch.svg" width="50%">
-<img src="https://minitorch.github.io/minitorch.svg" width="50%">
-<img src="https://minitorch.github.io/minitorch.svg" width="50%">
+<img src="https://github.com/minitorch/minitorch-module-0-aameliig/blob/master/task05/s6.png" width="50%">
+<img src="https://github.com/minitorch/minitorch-module-0-aameliig/blob/master/task05/s7.png" width="50%">
+<img src="https://github.com/minitorch/minitorch-module-0-aameliig/blob/master/task05/s8.png" width="50%">
 
 
 * Xor dataset:
-<img src="https://minitorch.github.io/minitorch.svg" width="50%">
-<img src="https://minitorch.github.io/minitorch.svg" width="50%">
-<img src="https://minitorch.github.io/minitorch.svg" width="50%">
+<img src="https://github.com/minitorch/minitorch-module-0-aameliig/blob/master/task05/s9.png" width="50%">
+<img src="https://github.com/minitorch/minitorch-module-0-aameliig/blob/master/task05/s10.png" width="50%">
+
 
 * Circle dataset:
-<img src="https://minitorch.github.io/minitorch.svg" width="50%">
-<img src="https://minitorch.github.io/minitorch.svg" width="50%">
-<img src="https://minitorch.github.io/minitorch.svg" width="50%">
+<img src="https://github.com/minitorch/minitorch-module-0-aameliig/blob/master/task05/s11.png" width="50%">
+<img src="https://github.com/minitorch/minitorch-module-0-aameliig/blob/master/task05/s12.png" width="50%">
+
 
 * Spiral dataset:
-<img src="https://minitorch.github.io/minitorch.svg" width="50%">
-<img src="https://minitorch.github.io/minitorch.svg" width="50%">
-<img src="https://minitorch.github.io/minitorch.svg" width="50%">
+<img src="https://github.com/minitorch/minitorch-module-0-aameliig/blob/master/task05/s13.png" width="50%">
+<img src="https://github.com/minitorch/minitorch-module-0-aameliig/blob/master/task05/s14.png" width="50%">
+<img src="https://github.com/minitorch/minitorch-module-0-aameliig/blob/master/task05/s15.png" width="50%">
